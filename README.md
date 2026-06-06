@@ -1,35 +1,39 @@
 # Hi, I'm Sinan Uçar 👋
 
-**Senior AI Solutions Architect | Founding Engineer**
+**Senior Softwareentwickler · Frontend & Fullstack · KI-Integration**
 
-I bridge the gap between classical Enterprise Software and modern Generative AI. With a background in C#/.NET and complex frontend architectures (TypeScript/Next.js), my current focus is building robust, deterministic **Agentic Workflows** using Python, FastAPI, and LangGraph.
+Diplom-Informatiker mit über 15 Jahren Erfahrung in Frontend-/Fullstack-Entwicklung, modularen Webarchitekturen und agiler Produktentwicklung. Aktueller Schwerpunkt: modulare UI-Komponenten, Webkomponenten und die Integration von KI-Funktionen in bestehende Softwareprodukte.
 
 ---
 
-### 🚀 What I'm currently working on
-- 🧠 Building **realizetogether-ai**: An autonomous R&D lab for Agentic Workflows and RAG pipelines.
-- 🏗️ Architecting scalable, type-safe LLM outputs (Pydantic / Structured Outputs) to prevent enterprise systems from breaking.
-- ⚡ Orchestrating autonomous agents locally using Claude CLI and custom bash wrappers.
+### 🚀 Aktuelle Nebenprojekte
+- 📋 **[Logopädie Report Agent](https://logopaedie-report-agent.vercel.app)** – KI-gestütztes Dokumentationswerkzeug für strukturierte Therapieberichte (LLM + RAG + Frontend)
+- 🎬 **[Realize Together](https://realize-together.vercel.app)** – Plattform-MVP für Film-Creatives zur Projekt- und Teamfindung
 
-### 🛠️ Tech Stack & Architecture
+### 🛠️ Tech Stack
 
-**AI & Backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Frontend & Types:**
+**Frontend & UI:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
 
-**Infrastructure & Database:**
+**Backend & Schnittstellen:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**KI-Projekte:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**DevOps & Werkzeuge:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
 
-### 📫 Let's connect
-- **Portfolio & Lab:** [sinan.realizetogether.com](https://sinan.realizetogether.com)
+### 📫 Kontakt
+- **Portfolio:** [sinanucar.com](https://sinanucar.com)
 - **LinkedIn:** [linkedin.com/in/infosinanucar](https://www.linkedin.com/in/infosinanucar/)
