@@ -12,8 +12,6 @@ Seit 2020 arbeite ich freiberuflich unter **Fil & Muz** an Architektur, technisc
 
 - 🏢 **[WEG-Verwaltung](https://github.com/ucarsinan/weg-verwaltung)** – Multi-Tenant-SaaS mit Next.js, FastAPI und LangGraph; Mandanten-Isolation über Row Level Security und technisch erzwungene KI-Schreibsperre
 - 🧠 **BetriebsGehirn** – Lokale RAG-Pipeline für KMU-Wissen mit quellenbewusster Suche und evidenzgebundenen Antworten
-- 📋 **[Logopädie Report Agent](https://logopaedie-report-agent.vercel.app)** – KI-gestütztes Dokumentationswerkzeug für strukturierte Therapieberichte mit LLM-, RAG- und Frontend-Technologien
-- 🎬 **[Realize Together](https://realize-together.vercel.app)** – Plattform für Film-Creatives zur strukturierten Projekt- und Teamfindung
 
 ### 🛠️ Tech Stack
 
