@@ -1,14 +1,19 @@
 # Hi, I'm Sinan Uçar 👋
 
-**Senior Softwareentwickler · Frontend & Fullstack · KI-Integration**
+**Senior Softwareentwickler · Softwarearchitektur · Fullstack · KI-Integration**
 
-Diplom-Informatiker mit über 15 Jahren Erfahrung in Frontend-/Fullstack-Entwicklung, modularen Webarchitekturen und agiler Produktentwicklung. Aktueller Schwerpunkt: modulare UI-Komponenten, Webkomponenten und die Integration von KI-Funktionen in bestehende Softwareprodukte.
+Diplom-Informatiker und Senior Softwareentwickler mit über 15 Jahren Erfahrung in Frontend-/Fullstack-Entwicklung, modularen Webarchitekturen und agiler Produktentwicklung. Ich verbinde moderne UI-Architektur mit KI-Integration, LLM-Workflows und klarer Nutzerführung.
+
+Seit 2020 arbeite ich freiberuflich unter **Fil & Muz** an Architektur, technischer Beratung und der Entwicklung performanter Web- und Enterprise-Anwendungen. Software Engineering ist das Fundament; KI ergänzt Anwendungen dort, wo sie einen konkreten Nutzen schafft.
 
 ---
 
-### 🚀 Aktuelle Nebenprojekte
-- 📋 **[Logopädie Report Agent](https://logopaedie-report-agent.vercel.app)** – KI-gestütztes Dokumentationswerkzeug für strukturierte Therapieberichte (LLM + RAG + Frontend)
-- 🎬 **[Realize Together](https://realize-together.vercel.app)** – Plattform-MVP für Film-Creatives zur Projekt- und Teamfindung
+### 🚀 Ausgewählte Projekte
+
+- 🏢 **[WEG-Verwaltung](https://github.com/ucarsinan/weg-verwaltung)** – Multi-Tenant-SaaS mit Next.js, FastAPI und LangGraph; Mandanten-Isolation über Row Level Security und technisch erzwungene KI-Schreibsperre
+- 🧠 **BetriebsGehirn** – Lokale RAG-Pipeline für KMU-Wissen mit quellenbewusster Suche und evidenzgebundenen Antworten
+- 📋 **[Logopädie Report Agent](https://logopaedie-report-agent.vercel.app)** – KI-gestütztes Dokumentationswerkzeug für strukturierte Therapieberichte mit LLM-, RAG- und Frontend-Technologien
+- 🎬 **[Realize Together](https://realize-together.vercel.app)** – Plattform für Film-Creatives zur strukturierten Projekt- und Teamfindung
 
 ### 🛠️ Tech Stack
 
@@ -21,11 +26,15 @@ Diplom-Informatiker mit über 15 Jahren Erfahrung in Frontend-/Fullstack-Entwick
 **Backend & Schnittstellen:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C#/.NET](https://img.shields.io/badge/C%23%2F.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**KI-Projekte:**
+**KI-Softwareentwicklung:**
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-111827?style=for-the-badge)
 
 **DevOps & Werkzeuge:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
